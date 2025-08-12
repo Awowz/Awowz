@@ -5,6 +5,7 @@ My name is Awowz, I am a computer scientist interested in Fullstack Development,
 ## 🐾 About me
 - 🌕 Some of my intrerest involve: reading, gaming and art
 - 🌔 I'm currently spending all my free time after work learning and building new projects
+  
 ![Profile views](https://komarev.com/ghpvc/?username=Awowz&color=blue&style=flat-square)
 
 
